@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
-
+# https://doc.qt.io/qtforpython-6/tutorials/basictutorial/uifiles.html
+#
 ################################################################################
 ## Form generated from reading UI file 'image_viewer.ui'
 ##
