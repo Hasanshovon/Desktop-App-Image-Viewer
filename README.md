@@ -27,7 +27,7 @@ To run the Desktop-App-Image-Viewer, you need to have Python installed on your s
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Desktop-App-Image-Viewer.git
+   git clone https://github.com/Hasanshovon/Desktop-App-Image-Viewer.git
    cd Desktop-App-Image-Viewer
    ```
 2. **Install the Dependencies: Install PySide6 using pip**:
